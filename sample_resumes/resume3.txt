@@ -1,0 +1,26 @@
+Priya Nair
+Machine Learning Enthusiast
+
+Summary:
+Final-year engineering student passionate about machine learning and computer
+vision, with hands-on experience in building and deploying ML models.
+
+Experience:
+- ML Intern, VisionAI Labs (May 2025 - Jul 2025)
+  Trained a CNN-based image classification model achieving 92% accuracy on a
+  custom dataset of 5,000 images. Deployed the model using Flask and Docker.
+
+- Open Source Contributor, scikit-learn (2024 - Present)
+  Fixed bugs and improved documentation for a widely used ML library.
+
+Education:
+B.E. in Electronics and Computer Engineering, PQR Institute (2022 - 2026)
+
+Skills:
+Python, TensorFlow, PyTorch, scikit-learn, OpenCV, Flask, Docker, Git
+
+Projects:
+- Handwritten Digit Recognizer: CNN model trained on MNIST-style data,
+  achieving 98% test accuracy.
+- Mood Detection from Text: Logistic regression classifier for detecting
+  emotional tone in short text messages.

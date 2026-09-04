@@ -1,0 +1,26 @@
+Anita Sharma
+Software Engineer
+
+Summary:
+Computer Science undergraduate with 2 years of experience building web applications
+using React, Node.js, and MongoDB. Passionate about clean code and UI/UX design.
+
+Experience:
+- Frontend Developer Intern, TechNova Pvt Ltd (Jun 2025 - Aug 2025)
+  Built responsive dashboards using React and Tailwind CSS, improving page load
+  speed by 30%. Collaborated with a team of 5 on an agile sprint cycle.
+
+- Freelance Web Developer (2023 - Present)
+  Delivered 6 client websites using the MERN stack, handling both frontend and
+  backend development end-to-end.
+
+Education:
+B.Tech in Computer Science, XYZ University (2022 - 2026), CGPA: 8.7/10
+
+Skills:
+JavaScript, React, Node.js, MongoDB, Git, Tailwind CSS, REST APIs
+
+Projects:
+- Expense Tracker App: Built a full-stack expense tracking app with authentication
+  and data visualization using Chart.js.
+- College Event Portal: Developed an event management portal used by 500+ students.

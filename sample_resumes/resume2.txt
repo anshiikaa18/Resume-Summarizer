@@ -1,0 +1,24 @@
+Rohan Verma
+Data Analyst
+
+Summary:
+Detail-oriented data analyst with strong skills in SQL, Python, and Power BI.
+Experienced in transforming raw datasets into actionable business insights.
+
+Experience:
+- Data Analyst Intern, InsightWorks Analytics (Jan 2025 - Jun 2025)
+  Automated weekly reporting pipelines using Python, reducing manual reporting
+  time by 40%. Built interactive Power BI dashboards for sales tracking.
+
+- Research Assistant, University Data Lab (2024 - 2025)
+  Cleaned and analyzed survey datasets of 10,000+ respondents using pandas
+  and performed statistical hypothesis testing.
+
+Education:
+B.Sc. in Statistics, ABC University (2021 - 2025)
+
+Skills:
+Python, SQL, Power BI, Excel, Pandas, NumPy, Data Visualization
+
+Certifications:
+Google Data Analytics Professional Certificate
